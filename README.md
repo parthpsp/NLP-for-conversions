@@ -24,3 +24,4 @@ just follow th steps....
 ### Follow the Steps.
 * Download the project.
 * run conversation_model.py (for using our pretained model)
+* run nlp_for_conversation.py (for training new model)
